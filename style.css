@@ -1,0 +1,36 @@
+.main{
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto ;
+    font-size: larger;
+    text-align: center;
+
+}
+
+.widget{
+    background: dodgerblue;
+    margin: 20px;
+    width: auto;
+    height: 200px;
+
+}
+.small { background: linear-gradient(#3e84ff,#ff05bd) ;
+    width: 200px;
+    height: 250px;
+    display: flex;
+    justify-content:center;
+
+}
+.big{display: flex;
+    justify-content: space-between;
+    width: auto;
+    margin: 20px;
+}
+.contact{
+    background: darkmagenta;
+    margin: 20px;
+    width: auto;
+    height: 500px;
+
+}
